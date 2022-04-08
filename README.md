@@ -49,3 +49,7 @@ This library can be tested using the following manual process:
 - Go to the PHP file added previously, and check that it correctly alternates between echoing different file names.
 - Test manual access key: `?manualAccessKey=[MANUAL_ACCESS_KEY]&target=[TARGET_FILE_NAME]`.
 - Test randomization settings.
+
+## License
+
+[LICENSE](./LICENSE)
