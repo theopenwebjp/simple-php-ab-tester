@@ -1,0 +1,14 @@
+# Rewrites
+RewriteEngine On
+RewriteBase /
+
+# Blocked routes
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+<Files index.php>
+order allow,deny
+deny from all
+</Files>
+RewriteRule ^inputs/(.*)?$ / [F,L]
