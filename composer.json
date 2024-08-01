@@ -2,7 +2,7 @@
     "name": "theopenweb/simple-php-ab-tester",
     "type": "library",
     "description": "Simple PHP AB Tester",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "autoload": {
       "psr-4": {
         "TheOpenWeb\\SimplePHPABTester\\": "./src"

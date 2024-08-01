@@ -6,3 +6,7 @@
 - Randomization & randomization weights
 - Manually specify target
 - Utility functions
+
+## [1.01] - 2024-08-02
+
+- Proper versioning.
